@@ -44,6 +44,9 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 - [autocomplete-select-shadcn-ui](https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui) - Autocomplete component built with shadcn/ui and Fancy Multi Select by Maximilian Kaske.
 - [shadcn-data-table-advanced-col-opions](https://github.com/danielagg/shadcn-data-table-advanced-col-opions) - Column-resizing option to shadcn/ui DataTable.
 - [pricing-page-shadcn](https://github.com/m4nute/pricing-page-shadcn) - Pricing Page made with shadcn/ui & Next.js 14. Completely customizable
+- [Shadcn Space](https://github.com/shadcnspace/shadcnspace) - 1000+ Extraordinary Shadcn UI Resources blocks, components, templates, and more.
+- [Shadcn Dashboard](https://github.com/shadcndashboard/shadcndashboard) - Free, open-source admin dashboard built with React + Vite, shadcn/ui, Tailwind CSS, and TypeScript.
+- [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - A free, open-source, fully responsive Shadcn ui admin dashboard template. It supports React, Next.js, Angular, and Vue.js, and TanStack Start.
 
 ## Apps
 
